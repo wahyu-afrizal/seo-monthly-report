@@ -1,0 +1,18 @@
+{
+  "client_name": "XL Satu",
+  "period": "May 2026",
+  "prepared_by": "Antikode SEO",
+  "csv": {
+    "gsc_landing_pages": "XL Satu - LP GSC May 2026.csv",
+    "gsc_queries": "XL Satu - Queries GSC May 2026.csv",
+    "ga4_landing_pages": "XL Satu - LP GA4 May 2026.csv"
+  },
+  "conversions": {
+    "enabled": false
+  },
+  "filters": {
+    "exclude_path_prefix": [],
+    "min_impressions_for_opportunity": 500
+  },
+  "output_prefix": "XL Satu - SEO Monthly Insight Report"
+}

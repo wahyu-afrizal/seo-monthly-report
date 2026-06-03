@@ -1,0 +1,26 @@
+{
+  "client_name": "AXIS",
+  "period": "May 2026",
+  "prepared_by": "Antikode SEO",
+  "csv": {
+    "gsc_landing_pages": "AXIS - LP GSC May 2026.csv",
+    "gsc_queries": "AXIS - Queries GSC May 2026.csv",
+    "ga4_landing_pages": "AXIS - LP GA4 May 2026.csv"
+  },
+  "conversions": {
+    "enabled": true,
+    "label": "Conversions",
+    "csv": "AXIS - Conversions GA4 May 2026.csv",
+    "columns": {
+      "event_name": "Event Name",
+      "landing_page": "Landing page",
+      "value": "Conversion",
+      "delta": "Δ"
+    }
+  },
+  "filters": {
+    "exclude_path_prefix": [],
+    "min_impressions_for_opportunity": 500
+  },
+  "output_prefix": "AXIS - SEO Monthly Insight Report"
+}

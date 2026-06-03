@@ -1,0 +1,18 @@
+{
+  "client_name": "MSIG Online",
+  "period": "May 2026",
+  "prepared_by": "Antikode SEO",
+  "csv": {
+    "gsc_landing_pages": "MSIG Online - LP GSC May 2026.csv",
+    "gsc_queries": "MSIG Online - Queries GSC May 2026.csv",
+    "ga4_landing_pages": "MSIG Online - LP GA4 May 2026.csv"
+  },
+  "conversions": {
+    "enabled": false
+  },
+  "filters": {
+    "exclude_path_prefix": [],
+    "min_impressions_for_opportunity": 200
+  },
+  "output_prefix": "MSIG Online - SEO Monthly Insight Report"
+}
